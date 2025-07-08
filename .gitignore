@@ -1,0 +1,14 @@
+# Ignore IDE config files (VSCode & Eclipse)
+/.vscode
+/.settings
+
+# Ignore possible output folders 
+/Debug
+/Release
+/build
+/out
+/install
+/dist
+
+# Other files to ignore
+*.log
